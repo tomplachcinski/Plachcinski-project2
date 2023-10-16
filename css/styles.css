@@ -1,0 +1,39 @@
+.footerblurb{
+    margin-top: -290px;
+}
+
+.footerblurb h3{
+    font-family: "neue-haas-grotesk-display", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    color: #707070;
+    font-size: 60px;
+}
+
+.footertext textarea{
+    text-decoration: none;
+    border-bottom: 2px solid white;
+}
+
+.navbar-nav > li > a{
+    font-family: "panel-mono", monospace;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 20px;
+   
+}
+
+form{
+    font-family: "panel-mono", monospace;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 20px;
+
+}
+
+input[type="text"], input[type="email"], input[type="subject"]{
+    border-bottom: 3px solid #fff;
+    fill: none;
+    width: 98%;
+    margin-top: 25px;
+}
