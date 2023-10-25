@@ -21,6 +21,7 @@ body{
 
 .foot{
     padding-bottom: 50px;
+    padding-top: 50px;
 }
 
 .navbar-nav > li > a{
@@ -430,6 +431,55 @@ z-index: -1;
 
 .ingredient2 li{
     padding-top: 25px;
+}
+
+.nutrition{
+    font-family: "neue-haas-grotesk-display", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+    font-size: 60px;
+    color: #5F5F5F;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    margin-top: -570px;
+}
+
+.nut{
+    padding-top: 100px;
+    padding-bottom: 90px;
+}
+
+.nut1{
+    list-style: none;
+    font-family: "neue-haas-grotesk-display", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 18px;
+    color: #5F5F5F;
+    padding-bottom: 80px;
+
+}
+
+.nut1 li{
+padding-top: 30px;
+}
+
+.nut2{
+    list-style: none;
+    font-family: "neue-haas-grotesk-display", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 18px;
+    color: #5F5F5F;
+}
+
+.nut2 li{
+padding-top: 30px;
+}
+
+.motmhr{
+    border-top: 7px solid #61CCF4;
+    opacity: 100;
 }
 
 
