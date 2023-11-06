@@ -399,6 +399,7 @@ z-index: -1;
     width: 90%;
     padding-bottom: 90px;
     padding-top: 30px;
+    margin-top: 90px;
 }
 
 .direct li{
@@ -427,6 +428,7 @@ z-index: -1;
     font-style: normal;
     font-size: 1.125rem;
     color: #5F5F5F;
+    padding-top: 20px;
 }
 
 .reviews{
@@ -444,14 +446,15 @@ z-index: -1;
     font-style: italic;
     font-size: 2.188rem;
     color: #5F5F5F;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-align: center;
 }
 
 .ingredients{
     font-family: "neue-haas-grotesk-display", sans-serif;
     font-weight: 900;
-    font-style: italic;
+    font-style: normal;
     font-size: 3.75rem;
     color: #5F5F5F;
 }
@@ -459,10 +462,9 @@ z-index: -1;
 .directions{
     font-family: "neue-haas-grotesk-display", sans-serif;
     font-weight: 900;
-    font-style: italic;
+    font-style: normal;
     font-size: 3.75rem;
     color: #5F5F5F;
-    padding-top: 50px;
     padding-bottom: 10px;
 }
 
@@ -475,7 +477,7 @@ z-index: -1;
     color: #5F5F5F;
 }
 
-.ingredient1 li{
+.ingredient1 label{
     padding-top: 25px;
 }
 
@@ -489,14 +491,14 @@ z-index: -1;
     margin-top: 27px;
 }
 
-.ingredient2 li{
+.ingredient2 label{
     padding-top: 25px;
 }
 
 .nutrition{
     font-family: "neue-haas-grotesk-display", sans-serif;
     font-weight: 900;
-    font-style: italic;
+    font-style: normal;
     font-size: 3.75rem;
     color: #5F5F5F;
     padding-top: 50px;
@@ -512,8 +514,7 @@ z-index: -1;
 .nut3{
     background-image: url("../images/nutrition.png");
     background-size: 100% 100%;
-    width: 50%;
-    margin-left: 200px;
+    
     margin-top: 60px;
 
 }
@@ -521,9 +522,9 @@ z-index: -1;
 .nut1{
     list-style: none;
     font-family: "neue-haas-grotesk-display", sans-serif;
-    font-weight: 700;
+    font-weight: 400;
     font-style: normal;
-    font-size: 1.125rem;
+    font-size: 1.4rem;
     color: #5F5F5F;
     padding-bottom: 80px;
 
@@ -536,9 +537,9 @@ padding-top: 30px;
 .nut2{
     list-style: none;
     font-family: "neue-haas-grotesk-display", sans-serif;
-    font-weight: 700;
+    font-weight: 400;
     font-style: normal;
-    font-size: 1.125rem;
+    font-size: 1.4rem;
     color: #5F5F5F;
 }
 
@@ -561,6 +562,26 @@ margin-top: 60px;
 
 .s{
     margin-top: 30px;
+}
+
+.fb img:hover{
+    opacity: 50%;
+}
+
+.ig img:hover{
+    opacity: 50%;
+}
+
+.arrow:hover{
+    opacity: 50%;
+}
+
+.viewall:hover{
+    opacity: 50%;
+}
+
+.fullrecipe:hover{
+    opacity: 50%;
 }
 
 
